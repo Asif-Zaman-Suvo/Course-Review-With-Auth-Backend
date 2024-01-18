@@ -1,6 +1,6 @@
 # A Simple Course Review With Authentication Applicatiion
 
-## Details Of this project
+## Detailss Of this project
 
 This project refers to the implementation of authentication with register and login,there are 2 types of user ,there are user and admin.only admin can create course. Anyone can get all course with mongoose , typescript. Here only user can create a review ,only admin can create a course category . all users can get all course category , get courseid with review ,Only a admin can update a course with primitives field and non primitive fields . Also anyone can get the best course according to their review
 
